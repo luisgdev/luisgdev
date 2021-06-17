@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Telegram bot to lookout my stake in PancakeSwap.
+- 🌱 I’m currently learning Data Analysis and ML basics.
+- ⚡ Fun fact: I'll be updating this later.
