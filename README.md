@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 - 🌱 Además, estoy aprendiendo **Análisis de Datos** con Python y R. Conocimiento que considero muy útil en el mundo de las **DEFI**. 
 - ⚡ ¡Echa un vistazo a los repositorios anclados!
 
----
+# 
 ![Lang](https://img.shields.io/badge/Language-English-blue)
 - 🔭 I’m currently working on a Telegram bot to lookout my stake in PancakeSwap. Using **Web3.py**, a **Flask** server and Telegram **HTTP API**.
 - 🌱 I’m currently learning **Data Analysis** with Python and R. I consider that knowledge is really useful in the **DEFI** world.
 - ⚡ ¡Take a look to my pinned repos!
----
+
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&hide=TeX&layout=compact)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -35,11 +36,11 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
 
 [![OS](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
-[![OS](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/VSCode-Editor-informational?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Vim-Editor-informational?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/vim)
-[![Editor](https://img.shields.io/badge/Termux-Linux%20for%20Android-informational?style=flat&logo=windowsterminal&logoColor=black)](https://termux.com)
+[![OS](https://img.shields.io/badge/Ubuntu-OS-informational?style=flat&logo=xfce&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/VSCode-Editor-informational?style=flat&logo=visual-studio-code&logoColor=blue)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![Editor](https://img.shields.io/badge/Vim-Editor-informational?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[![Editor](https://img.shields.io/badge/Termux-Linux%20for%20Android-informational?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
 
----
+#
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
 [![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:dev@luisch.com)
