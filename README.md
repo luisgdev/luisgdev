@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋🏽 ¡Hello Mundo!
 ![Lang](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-blue)
-- 🔭 Actualmente estoy creando un **bot de Telegram** que me permitirá visualizar mi inversión en el pool de PancakeSwap. Utilizando la librería **Web3.py**, un servidor de **Flask** y la **HTTP API** de Telegram. 
+- 🔭 Actualmente estoy creando un **bot de Telegram** que me permitirá visualizar el stake en PancakeSwap. Utilizando la librería **Web3.py**, un servidor de **Flask** y la **HTTP API** de Telegram. 
 - 🌱 Además, estoy aprendiendo **Análisis de Datos** con Python y R. Conocimiento que considero muy útil en el mundo de las **DEFI**. 
 - ⚡ ¡Echa un vistazo a los repositorios anclados!
 
