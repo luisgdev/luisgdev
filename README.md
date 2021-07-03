@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luisgdev/luisgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🇪🇸 Hola, soy Luis Ch.
+- 🔭 Actualmente estoy creando un **bot de Telegram** que me permitirá visualizar mi inversión en el pool de PancakeSwap. Utilizando la librería **Web3.py**, un servidor de **Flask** y la **HTTP API** de Telegram. 
+- 🌱 Además, estoy aprendiendo **Análisis de Datos** con Python y R. Conocimiento que considero muy útil en el mundo de las **DEFI**. 
+- ⚡ ¡Echa un vistazo a los repositorios anclados!
 
-- 🔭 I’m currently working on a Telegram bot to lookout my stake in PancakeSwap.
-- 🌱 I’m currently learning Data Analysis and ML basics.
-- ⚡ Fun fact: I'll be updating this later.
+## 🇺🇸 Hi there.
+- 🔭 I’m currently working on a Telegram bot to lookout my stake in PancakeSwap. Using **Web3.py**, a **Flask** server and Telegram **HTTP API**.
+- 🌱 I’m currently learning **Data Analysis** with Python and R. I consider that knowledge is really useful in the **DEFI** world.
+- ⚡ ¡Take a look to my pinned repos!
