@@ -47,4 +47,7 @@ Here are some ideas to get you started:
 ### Contact Info
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
 [![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:dev@luisch.com)
-[![Kofi](https://img.shields.io/badge/Support%20me%20on-Kofi-blue?style=flat&logo=kofi&logoColor=red)](https://ko-fi.com/luisg)
+
+### Support
+[![Kofi](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue?style=flat&logo=kofi)](https://ko-fi.com/luisg)
+[![Binance](https://img.shields.io/badge/Trade%20on-Binance-blue?style=flat&logo=binance)](https://accounts.binance.me/es-LA/register?ref=16580223)
