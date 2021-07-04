@@ -25,15 +25,18 @@ Here are some ideas to get you started:
 - ⚡ ¡Take a look to my pinned repos!
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&layout=compact&theme=dark)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![SQLite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgdev&show_icons=true&theme=dark)
 
 [![OS](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows)
 [![OS](https://img.shields.io/badge/Ubuntu-OS-informational?style=flat&logo=xfce&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
@@ -41,6 +44,7 @@ Here are some ideas to get you started:
 [![Editor](https://img.shields.io/badge/Vim-Editor-informational?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [![Editor](https://img.shields.io/badge/Termux-Linux%20for%20Android-informational?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
 
-#
+### Contact Info
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
 [![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:dev@luisch.com)
+[![Kofi](https://img.shields.io/badge/Support%20me%20on-Kofi-blue?style=flat&logo=kofi&logoColor=red)](https://ko-fi.com/luisg)
