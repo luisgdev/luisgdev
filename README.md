@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&layout=compact&theme=dark)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![SQLite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js)
+![SQLite](https://img.shields.io/badge/-Sqlite-grey?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat&logo=css3&logoColor=blue)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgdev&show_icons=true&theme=dark)
 
