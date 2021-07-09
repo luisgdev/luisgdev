@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
 [![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:dev@luisch.com)
 
-### Support
+### Links
 [![Services](https://img.shields.io/badge/%F0%9F%92%BC%20Hire-Me-blue?style=flat)](https://luisch.com/services)
-[![Binance](https://img.shields.io/badge/Trade%20on-Binance-blue?style=flat&logo=binance)](https://accounts.binance.me/es-LA/register?ref=16580223)
 [![Ecwid](https://img.shields.io/badge/%F0%9F%9B%92%20Sell%20on-Ecwid-blue?style=flat)](https://open.ecwid.com/3c9qTM)
 [![Kofi](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue?style=flat&logo=kofi)](https://ko-fi.com/luisg)
+[![Binance](https://img.shields.io/badge/Trade%20on-Binance-blue?style=flat&logo=binance)](https://accounts.binance.me/es-LA/register?ref=16580223)
+[![Safepal](https://img.shields.io/badge/Secure%20your%20Assets-Safepal-blue?style=flat&logo=binance)](https://shop.safepal.io/products/safepal-hardware-wallet-s1-bitcoin-wallet?ref=luisch)
