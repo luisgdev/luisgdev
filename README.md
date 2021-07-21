@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Editor](https://img.shields.io/badge/Vim-Editor-informational?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
 [![Editor](https://img.shields.io/badge/Termux-Linux%20for%20Android-informational?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
 
-### Learning:
+### Learning
 [![Numpy](https://img.shields.io/badge/-Numpy-grey?style=flat&logo=numpy&logoColor=cyan)](https://github.com/numpy/numpy)
 [![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas&logoColor=yellow)](https://github.com/pandas-dev/pandas)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-grey?style=flat&logo=Python&logoColor=lightblue)](https://github.com/matplotlib/matplotlib)
