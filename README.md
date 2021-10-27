@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python&logoColor=lightblue)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-grey?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js)
 ![SQLite](https://img.shields.io/badge/-Sqlite-grey?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb)
@@ -54,11 +55,9 @@ Here are some ideas to get you started:
 
 ### Contact Info
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
-[![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:dev@luisch.com)
+[![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:email@luisch.com)
 
 ### Links
-[![Services](https://img.shields.io/badge/%F0%9F%92%BC%20Hire-Me-blue?style=flat)](https://luisch.com/services)
 [![Ecwid](https://img.shields.io/badge/%F0%9F%9B%92%20Sell%20on-Ecwid-blue?style=flat)](https://open.ecwid.com/3c9qTM)
-[![Kofi](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue?style=flat&logo=kofi)](https://ko-fi.com/luisg)
 [![Binance](https://img.shields.io/badge/Trade%20on-Binance-blue?style=flat&logo=binance)](https://accounts.binance.me/es-LA/register?ref=16580223)
 [![Safepal](https://img.shields.io/badge/Secure%20your%20Assets-Safepal-blue?style=flat&logo=binance)](https://shop.safepal.io/products/safepal-hardware-wallet-s1-bitcoin-wallet?ref=luisch)
