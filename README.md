@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
 [![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:email@luisch.com)
 
+### Crypto Tips
+Web3 wallet address (ERC20, BEP20, Polygon, ...)
+0x52Efd48e0A9FE45dC525aBB465DC19785130e0AC
+
 ### Links
 [![Ecwid](https://img.shields.io/badge/%F0%9F%9B%92%20Sell%20on-Ecwid-blue?style=flat)](https://open.ecwid.com/3c9qTM)
 [![Binance](https://img.shields.io/badge/Trade%20on-Binance-blue?style=flat&logo=binance)](https://accounts.binance.me/es-LA/register?ref=16580223)
