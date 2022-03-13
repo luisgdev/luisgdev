@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### Crypto Tips
 Web3 wallet address (ERC20, BEP20, Polygon, ...)
-0x52Efd48e0A9FE45dC525aBB465DC19785130e0AC
+`0x52Efd48e0A9FE45dC525aBB465DC19785130e0AC`
 
 ### Links
 [![Ecwid](https://img.shields.io/badge/%F0%9F%9B%92%20Sell%20on-Ecwid-blue?style=flat)](https://open.ecwid.com/3c9qTM)
