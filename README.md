@@ -6,6 +6,9 @@
 I am a Python developer based in Venezuela. I work as a freelance programmer since I learned some Java and Python, while studying Systems Engineering. My goal is to grow as a software developer, by adding value to that interesting project which may need some of my knowledge and experience.
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&layout=compact&theme=dark)
+
+
 ### Stack
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python&logoColor=lightblue)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask)
@@ -16,10 +19,10 @@ I am a Python developer based in Venezuela. I work as a freelance programmer sin
 
 ### Tools
 
-[![OS](https://img.shields.io/badge/Ubuntu-OS-informational?style=flat&logo=xfce&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/VSCode-Editor-informational?style=flat&logo=visual-studio-code&logoColor=blue)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-[![Editor](https://img.shields.io/badge/Vim-Editor-informational?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
-[![Editor](https://img.shields.io/badge/Termux-Linux%20for%20Android-informational?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
+[![OS](https://img.shields.io/badge/Ubuntu-grey?style=flat&logo=xfce&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/VSCode-grey?style=flat&logo=visual-studio-code&logoColor=blue)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![Editor](https://img.shields.io/badge/Vim-grey?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
+[![Editor](https://img.shields.io/badge/Termux-grey?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
 
 ### Learning
 [![Numpy](https://img.shields.io/badge/-Numpy-grey?style=flat&logo=numpy&logoColor=cyan)](https://github.com/numpy/numpy)
@@ -27,12 +30,6 @@ I am a Python developer based in Venezuela. I work as a freelance programmer sin
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-grey?style=flat&logo=Python&logoColor=lightblue)](https://github.com/matplotlib/matplotlib)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&layout=compact&theme=dark)
-
 ### Contact Info
 [![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
-[![Email](https://img.shields.io/badge/Email-dev%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:email@luisch.com)
-
-### Crypto
-Web3 wallet address: 
-`0x52Efd48e0A9FE45dC525aBB465DC19785130e0AC`
+[![Email](https://img.shields.io/badge/Email-email%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:email@luisch.com)
