@@ -6,9 +6,6 @@
 I am a Python developer based in Venezuela. I work as a freelance programmer since I learned some Java and Python, while studying Systems Engineering. My goal is to grow as a software developer, by adding value to that interesting project which may need some of my knowledge and experience.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgdev&layout=compact&theme=dark)
-
-
 ### Stack
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python&logoColor=lightblue)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask)
