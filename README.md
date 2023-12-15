@@ -10,26 +10,21 @@ Most of my work is in private repos. Currently working as solopreneur in micro S
 
 
 ### Stack
-![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=Python&logoColor=lightblue)
-![Flask](https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-grey?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-grey?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)
 
 
 ### Tools
 
-[![OS](https://img.shields.io/badge/Ubuntu-grey?style=flat&logo=xfce&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/VSCode-grey?style=flat&logo=visual-studio-code&logoColor=blue)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-[![Editor](https://img.shields.io/badge/Vim-grey?style=flat&logo=vim&logoColor=green)](https://en.wikipedia.org/wiki/Vim_(text_editor))
-[![Editor](https://img.shields.io/badge/Termux-grey?style=flat&logo=windowsterminal&logoColor=black)](https://github.com/termux)
+![OS](https://img.shields.io/badge/Debian-grey?style=for-the-badge&logo=debian&logoColor=A81D33)
+![Editor](https://img.shields.io/badge/VSCodium-grey?style=for-the-badge&logo=vscodium)
+[![Editor](https://img.shields.io/badge/Vim-grey?style=for-the-badge&logo=vim&logoColor=green)](https://github.com/vim/vim)
+[![Editor](https://img.shields.io/badge/Termux-grey?style=for-the-badge&logo=windowsterminal&logoColor=black)](https://github.com/termux)
 
 ### Learning
-[![Numpy](https://img.shields.io/badge/-Numpy-grey?style=flat&logo=numpy&logoColor=cyan)](https://github.com/numpy/numpy)
-[![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas&logoColor=yellow)](https://github.com/pandas-dev/pandas)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-grey?style=flat&logo=Python&logoColor=lightblue)](https://github.com/matplotlib/matplotlib)
-
-
-### Contact Info
-[![Telegram](https://img.shields.io/badge/Telegram-%40luisgve-blue?style=flat&logo=telegram&logoColor=blue)](https://t.me/luisgve)
-[![Email](https://img.shields.io/badge/Email-email%40luisch.com-blue?style=flat&logo=gmail&logoColor=red)](mailto:email@luisch.com)
+![Numpy](https://img.shields.io/badge/-Numpy-grey?style=for-the-badge&logo=numpy&logoColor=cyan)
+![Pandas](https://img.shields.io/badge/-Pandas-grey?style=for-the-badge&logo=pandas&logoColor=yellow)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-grey?style=for-the-badge&logo=Python&logoColor=lightblue)
