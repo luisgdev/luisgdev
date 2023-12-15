@@ -3,7 +3,10 @@
 -->
 
 # Hello World
-I am a Python developer based in Venezuela. I work as a freelance programmer since I learned some Java and Python, while studying Systems Engineering. My goal is to grow as a software developer, by adding value to that interesting project which may need some of my knowledge and experience.
+Self-motivated Software developer based in Venezuela. 
+Specialising in backend development, with an eager interest in microservices.
+I use Python with typing and doc-strings, following best practices like PEP-8 and design patterns.
+Most of my work is in private repos. Currently working as solopreneur in micro SaaS projects.
 
 
 ### Stack
