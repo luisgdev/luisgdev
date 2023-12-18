@@ -7,7 +7,7 @@
 Self-motivated Software developer based in Venezuela. 
 Specialising in [backend development](https://github.com/topics/backend), 
 with an eager interest in [microservices](https://github.com/topics/microservices).
-I use Python with typing and doc-strings, following best practices like PEP-8 and design patterns.
+I use Python3 with typing and doc-strings, following best practices like PEP-8 and design patterns.
 Most of my work is in private repos. Currently working as solopreneur in micro SaaS projects.
 
 
@@ -34,6 +34,7 @@ Most of my work is in private repos. Currently working as solopreneur in micro S
 [![plotly](https://img.shields.io/badge/-plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/topics/plotly)
 [![jira](https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/topics/jira)
 [![debian](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://github.com/topics/debian)
+[![pycharm](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)](https://github.com/topics/pycharm)
 [![vscodium](https://img.shields.io/badge/-vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)](https://github.com/topics/vscodium)
 [![vim](https://img.shields.io/badge/-vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/topics/vim)
 [![termux](https://img.shields.io/badge/-termux-black?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/topics/termux)
