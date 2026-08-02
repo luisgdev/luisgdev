@@ -4,14 +4,27 @@
 
 # 👋 Hello World
 
-I am a Software developer, passionate about technology and minimalism, based in Venezuela. 
-Most of my professional experience involves [backend development](https://github.com/topics/backend) and a some front. 
+I am a **Software Engineer** specializing in **AI-powered applications** and **backend development**, based in _Venezuela_. 
 
-I use `Python3` with `typing` and doc-strings, following best practices like PEP-8 and design patterns. 
-The most relevant and valuable projects I've worked on are private. 
-A lot of my daily tasks are automated by both Python and `Bash` scripts. 
+I build **production-ready** systems with **Python**, following best practices (typing, doc-strings, design patterns and clean code). I design and implement **AI-driven solutions** like **RAG pipelines**, **MCP servers** and **custom tooling for AI agents**. 
+
+Hands-on experience with **agentic frameworks**, working with CLI **agent harnesses** and developing **voice assistant agents**. Proficient with **SQL**, **NoSQL** and **vector databases**, including **ORM** frameworks, and integrating third party **solutions integration** using APIs and webhooks.
+
+Passionate about building **MVPs and SaaS products powered by AI**. Currently **open to new opportunities** in AI engineering, backend development, or full-stack roles.
 
 
-# 🔧 Dev tools
+# 🔧 Stack
 
-`python3` `django` `pytest` `postgresql` `docker` `pydantic` `linux`
+**Backend:** `python` `django` `flask` `fastapi` `pytest` `pydantic`
+
+**Databases:** `postgresql` `chromadb` `pgvector` `weviate`
+
+**AI/ML:** `langchain` `langgraph` `crewai` `mcp` `rag`
+
+**Agent Harness**: `claude-code` `pi`
+
+**Frontend:** `javascript` `node` `vue` `react`
+
+**DevOps:** `docker` `linux` `nginx`
+
+**Integrations:** `OpenAI` `Claude` `Twilio` `ElevenLabs` `Supabase` 
